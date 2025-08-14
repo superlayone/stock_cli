@@ -74,6 +74,7 @@ python get_stock_cli.py
 
 ## 示例
 
+```bash
 (venv) (base) ➜  longport git:(main) ✗ python3 get_stock_cli.py                          
 +----------+--------------------------------------------------------------------------------------------------+
 | USOption | You do not have access to the market's Open API data. Please visit the Quotes Store to purchase. |
@@ -92,3 +93,4 @@ python get_stock_cli.py
 | CRWV.US    | 115.130      | 117.760      | 119.100      | -20.83%    |
 | DJT.US     | 18.020       | 17.980       | 18.000       | +2.98%     |
 +------------+--------------+--------------+--------------+------------+
+```
